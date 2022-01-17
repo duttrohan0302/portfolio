@@ -187,7 +187,6 @@ const Education = () => {
   `);
 
   const jobsData = data.jobs.edges;
-  console.log(jobsData)
   const [activeTabId, setActiveTabId] = useState(0);
   const [tabFocus, setTabFocus] = useState(null);
   const tabs = useRef([]);
