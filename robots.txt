@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Sitemap: https://rohandutt.com/sitemap.xml
+Host: https://rohandutt.com
