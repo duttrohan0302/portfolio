@@ -12,5 +12,5 @@ tech:
   - NodeJS
 ---
 
-A hackathon project under [Government of Punjab, India](#) to create a new born stabilization [tracking portal](#) to [tackle](#) the number of [infant deaths](#).
+A hackathon project under [Government of Punjab, India](#) to create a newborn stabilization [tracking portal](#) to [tackle](#) the number of [infant deaths](#).
 

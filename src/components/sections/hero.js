@@ -64,7 +64,7 @@ const Hero = () => {
   const four = (
     <>
       <p>
-        I’m a software engineer specializing in building solutions with a focus in MERN stack. Currently, I’m focused on working in state of the art technologies for Risk, Pricing and Trade Management Platform
+      I’m a software engineer specializing in building solutions focused on the MERN stack. Currently, I’m focused on working in the state of the art technologies for Risk, Pricing and Trade Management Platform
         at{' '}
         <a href="https://www.jpmorganchase.com/" target="_blank" rel="noreferrer">
           JP Morgan Chase &amp; Co

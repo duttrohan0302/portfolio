@@ -8,5 +8,5 @@ url: 'https://www.hhfsdelhi.com/'
 ---
 
 - Completed Higher Senior Secondary Certificate with 91.2%
-- Focus on Physics, Chemistry and Maths
+- Focus on Physics, Chemistry, and Maths
 - AIR 12,783 in Jee Mains, a national level engineering exam

@@ -14,6 +14,6 @@ tech:
 ---
 
 This is my data science projects page. 
-- [Stack Overflow Tool](#) opens up all stackoverflow pages which can help in the [errors](#) of a [python](#) file. 
+- [Stack Overflow Tool](#) opens up all StackOverflow pages, which can help in the [errors](#) of a [python](#) file. 
 - The [Age Gender](#) webApp takes an image of a person as input and returns the image with [age](#) and [gender](#) [estimates](#).
-- [Mosaic creator](#) is a web app which takes the target image as input and generates a [mosaic](#) of that image using [thousands](#) of small images
+- The [Mosaic creator](#) is a web app that takes the target image as input and generates a [mosaic](#) of that image using [thousands](#) of tiny images

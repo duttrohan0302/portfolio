@@ -12,7 +12,7 @@ tech:
   - ReactJS
 ---
 
-A webApp built with [NodeJS](#) and [ReactJS](#) which spawns python children to achieve the following objectives.
-- [Analyse](#) the question paper and give the [topic wise](#) and [difficulty wise](#) analysis.
+A web app built with [NodeJS](#) and [ReactJS](#) which spawns python children to achieve the following objectives:
+- [Analyze](#) the question paper and give the [topic-wise](#) and [difficulty-wise](#) analysis.
 - Generate [Sample question paper](#) of required difficulty level based on previous year trends.
-- Calculate the student [marks vs percentile distribution](#) after analyis of question paper. 
+- Calculate the student [marks vs. percentile distribution](#) after analysis of the question paper. 

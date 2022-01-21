@@ -136,16 +136,15 @@ const About = () => {
         <StyledText>
           <div>
             <p>
-              Hello! My name is Rohan, the first time 4 years ago I heard the concept of website development, I fell in love with it.
-              To build something a lot of people will use and spend time on daily is my main motivation for Software Development.
+            Hello! My name is Rohan. The first time four years ago I heard the concept of website development, I fell in love with it. To build something many people will use and spend time on daily is my primary motivation for Software Development.
             </p>
 
             <p>
               Fast-forward to today, and I’ve had the privilege of working at{' '}
-              <a href="https://www.softway.com/">a culture first organisation</a>,{' '}
+              <a href="https://www.softway.com/">a culture-first organization</a>,{' '}
               <a href="http://foodcham.com/">a start-up</a>,{' '}
-              <a href="https://www.jpmorganchase.com/">a huge corporation</a>. My
-              main focus these days is working on state of the art technologies at <a href="https://www.jpmorganchase.com">JP Morgan</a> for Risk, Pricing and Trade Management Platform.
+              <a href="https://www.jpmorganchase.com/">a huge corporation</a>. 
+              These days, my main focus is working on state-of-the-art technologies at <a href="https://www.jpmorganchase.com">JP Morgan</a> for Risk, Pricing and Trade Management Platform.
             </p>
 
             <p>
@@ -153,8 +152,7 @@ const About = () => {
               <a href="https://github.com/duttrohan0302/accio-batch11/blob/master/README.md">
                 building sessions
               </a>{' '}
-              that has various projects covering everything you need to build a frontend web app with HTML, CSS
-              &amp; JavaScript.
+              with various projects covering everything you need to build a frontend web app with HTML, CSS &amp; JavaScript.
             </p>
 
             <p>Here are a few technologies I’ve been working with recently:</p>

@@ -13,7 +13,7 @@ tech:
   - Full Calendar
 ---
 
-Virtual medical campus is a one stop [Tele Medicine Solution](#) whose need arose during the covid 19 crisis
-- Patients can request for [appointments](#) and get upcoming booking notifications
-- Generation and safe keeping of [prescriptions](#) for [doctors](#) & [patients](#)
-- Full [production ready](#) application with notification mail and FullCalendar API setup
+The virtual medical campus is a one-stop [Tele Medicine Solution](#) whose need arose during the covid 19 crisis
+- Patients can request [appointments](#) and get upcoming booking notifications
+- Generation and safekeeping of [prescriptions](#) for [doctors](#) & [patients](#)
+- Full [production-ready](#) application with notification mail and FullCalendar API setup
