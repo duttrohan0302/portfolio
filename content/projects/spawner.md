@@ -1,9 +1,9 @@
 ---
-date: '2021-01'
+date: '2022-02'
 title: 'Spawner'
-external: ''
-github: 'https://github.com/duttrohan0302/god'
-showInProjects: true
+external: 'http://the-spawner.herokuapp.com/'
+github: 'https://github.com/duttrohan0302/spawner'
+showInProjects: false
 tech:
   - NodeJS
   - MongoDB
