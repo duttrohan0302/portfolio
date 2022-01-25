@@ -2,7 +2,7 @@
   Rohan Dutt
 </h1>
 <h2 align="center">
-  My personal portfolio
+  <a href="https://duttrohan0302.github.io/portfolio/">My Personal Portfolio</a>
 </h2>
 
 
