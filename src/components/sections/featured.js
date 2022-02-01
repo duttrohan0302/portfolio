@@ -359,7 +359,6 @@ const Featured = () => {
             const image = getImage(cover);
             const temp = image.images.fallback.src.split('static');
             const imgSrc = `./static${temp[1]}`;
-            console.log(`img src is=> ${imgSrc}`);
             return (
               <StyledProject key={i} ref={el => (revealProjects.current[i] = el)}>
                 <div className="project-content">
