@@ -357,7 +357,9 @@ const Featured = () => {
             const { frontmatter, html } = node;
             const { external, title, tech, github, cover, cta } = frontmatter;
             const image = getImage(cover);
-
+            const temp = image.images.fallback.src.split('static');
+            const imgSrc = `./static${temp[1]}`;
+            console.log(`img src is=> ${imgSrc}`);
             return (
               <StyledProject key={i} ref={el => (revealProjects.current[i] = el)}>
                 <div className="project-content">
@@ -404,7 +406,7 @@ const Featured = () => {
                 <div className="project-image">
                   <a href={external ? external : github ? github : '#'}>
                     {/* <GatsbyImage image={image} alt={title} className="img" /> */}
-                    <img src={`.${image.images.fallback.src}`} alt={title} className="img" />
+                    <img src={imgSrc} alt={title} className="img" />
                   </a>
                 </div>
               </StyledProject>
