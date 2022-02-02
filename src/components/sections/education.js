@@ -85,7 +85,6 @@ const StyledTabButton = styled.button`
   }
   @media (max-width: 600px) {
     ${({ theme }) => theme.mixins.flexCenter};
-    min-width: 120px;
     padding: 0 15px;
     border-left: 0;
     border-bottom: 2px solid var(--lightest-navy);
@@ -260,7 +259,7 @@ const Education = () => {
                   tabIndex={activeTabId === i ? '0' : '-1'}
                   aria-selected={activeTabId === i ? true : false}
                   aria-controls={`panel-${i}`}>
-                  <span>{company==='' ? "Achievements" : company}</span>
+                  <span>{company === '' ? 'Achievements' : company}</span>
                 </StyledTabButton>
               );
             })}
@@ -287,11 +286,11 @@ const Education = () => {
                       <span className="company">
                       &nbsp;
                         {
-                          company === '' ? "" : "@"
+                          company === '' ? '' : '@'
                         }
                         &nbsp;
                         <a href={url} className="inline-link">
-                          {company==="TIET" ? "Thapar University" : company}
+                          {company === 'TIET' ? 'Thapar University' : company}
                         </a>
                       </span>
                     </h3>
