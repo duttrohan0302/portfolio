@@ -11,13 +11,9 @@ module.exports = {
       url: 'https://www.instagram.com/duttrohan3107/',
     },
     {
-      name: 'Twitter',
-      url: 'https://twitter.com/dutt_rohan0302',
-    },
-    {
       name: 'Linkedin',
       url: 'https://linkedin.com/in/rohandutt0302',
-    }
+    },
 
   ],
 
