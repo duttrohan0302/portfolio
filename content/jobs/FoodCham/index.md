@@ -1,5 +1,5 @@
 ---
-date: '2020-10-01'
+date: '2020-04-20'
 title: 'Technical Team Lead'
 company: 'Food Cham Technologies'
 location: 'Remote'
