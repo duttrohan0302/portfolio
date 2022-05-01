@@ -148,11 +148,11 @@ const About = () => {
             </p>
 
             <p>
-              I also recently started taking{' '}
-              <a href="https://github.com/duttrohan0302/accio-batch11/blob/master/README.md">
-                building sessions
+              I also mentor and teach{' '}
+              <a href="https://youtube.com/playlist?list=PLQCgKOPLSPXH43V_oIeervHxj5UuD32a6">
+                web development
               </a>{' '}
-              with various projects covering everything you need to build a frontend web app with HTML, CSS &amp; JavaScript.
+              in MERN Stack to 20-25-year-olds students and early professionals who are either looking for a strong career start or switching their area of focus.
             </p>
 
             <p>Here are a few technologies I’ve been working with recently:</p>
