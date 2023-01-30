@@ -4,7 +4,7 @@ title: 'Building Sessions for Frontend Development'
 external: 'https://www.youtube.com/playlist?list=PLQCgKOPLSPXH43V_oIeervHxj5UuD32a6'
 github: 'https://github.com/duttrohan0302/accio-batch11/blob/master/README.md'
 showInProjects: true
-company: 'Acciojob
+company: 'Acciojob'
 tech:
   - HTML
   - CSS
