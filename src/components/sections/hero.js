@@ -64,11 +64,12 @@ const Hero = () => {
   const four = (
     <>
       <p>
-      I’m a software engineer specializing in building solutions focused on the MERN stack. Currently, I’m focused on working in the state of the art technologies for Risk, Pricing and Trade Management Platform
-        at{' '}
-        <a href="https://www.jpmorganchase.com/" target="_blank" rel="noreferrer">
-          JP Morgan Chase &amp; Co
+      I’m a software engineer specializing in building solutions focused on the MERN stack. Currently, I’m focused on working in the state of the art technologies for Search
+        at{' '} <a href="https://www.amazon.jobs/en-gb/locations/luxembourg-city-luxembourg">EMEA HQ</a> {' '} of {' '}
+        <a href="http://amazon.de/" target="_blank" rel="noreferrer">
+          Amazon
         </a>
+        {' '}in Luxembourg
         .
       </p>
     </>

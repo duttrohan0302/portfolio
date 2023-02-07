@@ -3,7 +3,7 @@ date: '2022-01-10'
 title: 'Software Engineer'
 company: 'JP Morgan Chase & Co.'
 location: 'Bengaluru, Karnataka, India'
-range: 'January 2022 - Present, June - August 2021'
+range: 'January 2022 - October 2022'
 url: 'https://www.jpmorganchase.com/'
 ---
 
