@@ -144,7 +144,7 @@ const About = () => {
               <a href="https://www.softway.com/">a culture-first organization</a>,{' '}
               <a href="http://foodcham.com/">a start-up</a>,{' '}
               <a href="https://www.jpmorganchase.com/">a huge corporation</a>. 
-              These days, my main focus is working on state-of-the-art technologies at <a href="https://www.jpmorganchase.com">JP Morgan</a> for Risk, Pricing and Trade Management Platform.
+              These days, my main focus is working on making Search efficient at {' '} <a href="https://www.amazon.jobs/en-gb/locations/luxembourg-city-luxembourg">EMEA HQ</a> {' '} of <a href="http://amazon.de/">Amazon</a> in Luxembourg.
             </p>
 
             <p>
